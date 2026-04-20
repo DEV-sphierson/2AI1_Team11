@@ -16,15 +16,7 @@
 
 | Name    |           Role           |
 | ------  |--------------------------|   
-| Anish   | Project Lead             |
-| Anish   | feature engineering      |
-| Aryan   | Frontend Developer       |
-| Vinay   | ML Engineer              |
-| rishi   | Data Preprocessing       |
-| Zufishan| modal building + model evalution|   
-| Anish   | model deployment            |
-| Anish   | Documentation & Testing  |
-
+|   DEV   |      Project Lead        |
 ---
 
 ## 📌 Features
