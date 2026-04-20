@@ -12,7 +12,7 @@
 
 ---
 
-## 👥 Team Members (7 Members)
+## 👥 Team Leader
 
 | Name    |           Role           |
 | ------  |--------------------------|   
